@@ -1,0 +1,14 @@
+.grid {
+  margin: 100px 0 0;
+  /* position: absolute;
+    margin: 0 auto; */
+}
+.slidecontainer {
+  width: 100%; /* Width of the outside container */
+}
+
+/* The slider itself */
+.slider {
+  width: 25%;
+  margin: auto;
+}
