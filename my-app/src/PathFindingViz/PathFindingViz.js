@@ -23,7 +23,7 @@ export default class pathFindingVizz extends Component {
       START_NODE_ROW: 10,
       START_NODE_COL: 0,
       FINISH_NODE_ROW: 10,
-      FINISH_NODE_COL: 25,
+      FINISH_NODE_COL: 24,
     };
   }
 
